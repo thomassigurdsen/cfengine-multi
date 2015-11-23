@@ -1,7 +1,7 @@
 # About CFEngine Multi
 
 Repository for learning, testing and developing what might become parts of
-[Browniehives(http://browniehive.net) infrastrucure.
+[Browniehives](http://browniehive.net) infrastrucure.
 
 Using [CFEngine](https://cfengine.com/) and
 [Vagrant](https://www.vagrantup.com/).

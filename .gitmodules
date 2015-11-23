@@ -1,0 +1,3 @@
+[submodule "cfhost"]
+	path = cfhost
+        url = https://github.com/thomassigurdsen/cfhost-multi
